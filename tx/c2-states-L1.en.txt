@@ -1,0 +1,9 @@
+This is the brief on matter and its states. We're going to do a rapid-fire review of essential chemistry terms and common mistakes, just to make sure you're perfectly prepped for your test material. First, let's nail down those foundational definitions. Matter is literally anything with mass that takes up space, or volume.
+
+There are four common states—solid, liquid, gas, and plasma. So, which one is compressible? Gas only. Why? Simply because its particles are far apart. As for a liquid, well, it has an indefinite shape, taking the container shape, but a definite volume. Its particles stay in close contact, but just slide past one another.
+
+Second, these concepts are surprisingly easy to misunderstand. A big mistake is assuming a liquid has an indefinite volume just because it changes shape. The fix? Remember that shape changes, but volume doesn't. 250 milliliters stays exactly 250 milliliters in any glass. Another slip is calling light or heat matter.
+
+They're actually energy, meaning they have no mass and take up no space. And the third trap? Completely forgetting plasma when asked for the four common states. Finally, knowing these errors leads straight into the ultimate test trap—conflicting sources. Don't mistakenly think a liquid has an indefinite volume. Again, only the shape changes. The volume is definite.
+
+The real catch is your class handout lists four common states, including plasma, and says liquids are not compressible. Contrast this with many textbooks listing only three everyday states and calling liquids nearly incompressible. Four states and only gases are compressible.

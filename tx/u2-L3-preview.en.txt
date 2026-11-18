@@ -1,0 +1,9 @@
+This is the brief on the physical properties of matter. First, matter is strictly anything with mass that takes up volume. Light, heat, and sound are just energy. The four common states really just differ by how closely particles pack together. Solids have tightly packed, incompressible particles with definite shape and volume.
+
+Liquids share that definite volume and incompressibility, but their touching, sliding particles take a container's shape. Gases compress easily to fill spaces because particles only touch during collisions, and plasma, that's a very hot, charged gas like lightning and the sun. Second, we describe these states using specific physical properties.
+
+For solids, we check hardness against scratching, luster or shininess, malleability for hammering into sheets, and ductility for stretching into thin wires. For fluids, viscosity is simply flow resistance, while diffusion tracks particles moving from high to low concentration until evenly spread at equilibrium. By class definition, vapor is a gas formed by evaporation above a 25 degree Celsius room temperature,
+
+creating vapor pressure measured in kPa. Finally, we observe these properties in a specific space we're studying called a system. Inside it, any uniform part is a phase. The counting rule shows different states or visible layers equal different phases. So ice in water equals two, and oil in water is two.
+
+But salt water looks the same everywhere, making it one phase, just like a mixture of gases. A visible boundary means more than one phase.

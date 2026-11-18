@@ -1,0 +1,11 @@
+This is the brief on qualitative, quantitative, observation, and interpretation. Knowing exactly which box a sentence belongs in basically gives you free marks, and prevents losing points on sneaky interpretations disguised as observations. First, definitions. Qualitative means no numbers. It's described purely with your senses. Quantitative means a number from a measurement or count.
+
+Now, an observation is information straight from your senses, while an interpretation explains what that observation means, an idea you can't directly see. A description lists properties using words or numbers, so it can actually be both. Crucially, your class notes say observations must be qualitative. Textbooks might differ, but on this test, observation equals qualitative.
+
+Second, let's hit two worked examples. If a tube holds 12 milliliters, or you count three thermometers, those are numbers, making them quantitative. If a powder smells like vinegar or magnesium is shiny gray, that's just your senses without numbers, making them qualitative. Next, split this sentence. Bubbles formed and the beaker felt warm, so the reaction released heat and is exothermic.
+
+Seeing bubbles, feeling warmth, and noting heat was released are direct observations. But concluding it's exothermic is an unseen chemistry idea, so that's an interpretation. Finally, look at this one. The solid is white, powdery, and has a mass of 5.0 grams. White and powdery are qualitative, but 5.0 grams is quantitative.
+
+Because it uses both, it's a description. Strategy time for hard questions. Just cut the sentence right at so or because. If you can see, hear, smell, or feel it, it's an observation. If it needs a chemistry idea, it's an interpretation.
+
+Exam tip. Expect a two-column table. Write QN or OI next to each line. Circle any number first. A number means quantitative and rules out observation.

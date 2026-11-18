@@ -1,0 +1,13 @@
+This is the brief on Unit 1, Science Basics. This brief covers the fundamental distinctions between types of scientific measurements, observations, and the precise definitions of data, hypothesis, theory, and law, to ensure you don't lose free marks on your test. First, qualitative means no numbers.
+
+It's described purely with your senses, like color, smell, or saying something's bubbly or hot. Quantitative means a number from a measurement or count, like 46.5 milliliters or four beakers. Now, an observation is information you get directly with your senses. And in this class, an observation is always qualitative. So, why do students lose marks for writing,
+
+the reaction is exothermic under observations? Well, because it's an interpretation. An interpretation explains what an observation means based on evidence, but it's an idea you can't directly see. A description, however, lists properties using words and numbers,
+
+making it capable of being both qualitative and quantitative, like clear, colorless 50 milliliters. Second, data is quantitative information measured in an experiment. Just numbers. Now, can data actually prove a hypothesis?
+
+Absolutely not. Data can support or not support a hypothesis, but it never proves it. An experiment is simply a procedure done to find a result and answer a question. And a hypothesis, it's a single, unproven, testable, educated guess, often written as if, then.
+
+Finally, your test will ask you to identify whether a scenario is a hypothesis, data, theory, or law. People always mix up the last two. A theory explains why nature behaves a certain way. It's built from many tested hypotheses and can change with new evidence,
+
+like cell theory. A law describes what happens, but does not explain why. It is an experimentally established pattern, often written as an equation. Law of conservation of mass.

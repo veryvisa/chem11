@@ -1,0 +1,11 @@
+This is the brief on the heating curve of water. First, let's decode the lines. A diagonal line means temperature is changing and one phase is warming. A horizontal line means a phase is changing, temperature is constant, and two phases are present. For water, melting and freezing hit at zero degrees Celsius, and boiling and condensation occur at 100 degrees Celsius.
+
+Why is it flat? During boiling, temperature is constant because energy separates particles into gas instead of making them move faster. Translational kinetic energy matters most for a phase change because particles must move away from each other. Second, let's fix common mistakes. It's tempting to think temperature keeps rising while ice melts just because heat goes in.
+
+The fix? On a flat part, heat goes into breaking attractions, not raising temperature. Another mistake is saying only one phase is on a flat part. The fix? During melting, both solid and liquid are there.
+
+During boiling, both liquid and gas are there. Also, don't call segment one melting just because temperature heads towards zero degrees Celsius. The fix? Segment one is just solid ice warming up. No phase change yet.
+
+Finally, the test traps. Heat added does not mean temperature must rise. Not on the flat parts. And a flat part does not equal one phase. It means two phases together.
+
+Your class notes put heat added on the x-axis, whereas many textbooks put time there instead, with heat added at a steady rate. But because the shape and the five segments are exactly the same, you read either graph the same way.

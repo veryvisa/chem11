@@ -1,0 +1,9 @@
+This is the brief on extensive versus intensive properties. First, let's look at the key terms, one at a time. An extensive property is one that definitely depends on amount. We're talking about things like mass, volume, and length. An intensive property, however, does not depend on amount.
+
+Stuff like density, melting point, boiling point, and color. Oh, and just to be clear, both extensive and intensive properties are types of physical properties. So what is the fastest test to tell them apart? Well, just cut the sample in half. If the value halves, it's extensive.
+
+But if it stays the exact same, it's intensive. Second, let's cover the common mistakes and the fix. A really classic mistake is calling temperature extensive just because a bigger pot has more heat. The fix? Well, temperature is the same whether you have a tiny cup or a whole bathtub at 40 degrees Celsius.
+
+Therefore, it is intensive. Another one is calling density extensive just because a big block is undeniably heavier. The fix here is remembering that heavier is mass. The actual density stays the same. Lastly, watch out for the word total.
+
+Phrases like total length or total mass of something always denote an extensive property. Finally, the traps on the test. Temperature is not extensive. It is intensive because a cup and a tub can both be 40 degrees Celsius.

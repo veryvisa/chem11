@@ -1,0 +1,13 @@
+This is the brief on the six phase changes. We're exploring the rules, energy flows, and worked examples for physical transitions between solid, liquid, and gas states, where the substance stays exactly the same. First, the three states, solid, liquid, gas, have six transition arrows. Melting and freezing, evaporation and condensation, plus sublimation and deposition.
+
+Just read the state symbols, S, L, and G, to name the change. Now, your class diagram names liquid to gas evaporation. Textbooks might call it vaporization and split it into evaporation and boiling, but on this test, evaporation is expected. And that flat step at 100 degrees Celsius is boiling.
+
+In worked example one, frost on a car window is gas to solid deposition. A drying puddle is liquid to gas evaporation. Dew on grass is gas to liquid condensation. And an ice cube in water is solid to liquid melting. For worked example two, solid carbon dioxide to carbon dioxide gas is sublimation.
+
+Iodine gas to solid iodine is deposition. And liquid water to solid water is freezing. The same formula confirms their physical changes. Second, moving toward a gas absorbs energy to physically pull particles apart, while moving away releases it.
+
+In worked example three, which changes absorb or release energy? And why do melting and boiling need heat without a temperature rise? Well, melting, evaporation, and sublimation absorb energy. Freezing, condensation, and deposition release it. That heat just pulls particles apart instead of raising the temperature.
+
+Finally, the hardest question mixes up sublimation and deposition, because both completely skip the liquid phase. The rule for the start state. Starting solid is sublimation. Starting gas is deposition.
+
+Draw the triangle in the margin before you start. Gas on top, solid bottom left, liquid bottom right. Then every naming question is just follow the arrow.

@@ -1,0 +1,11 @@
+This is the brief on kinetic energy, rotational, vibrational, translational. First, let's get into the key terms, starting with kinetic energy, which is simply the energy particles have because they're moving. So as temperature increases, particles move faster, meaning kinetic energy increases too. Now, there are three types.
+
+Rotational, where just spins and bond lengths and angles stay the same. Then there's vibrational, where bonds stretch and bend, but the molecule stays in place. And translational is when the whole molecule actually moves from place to place, with the bonds completely unchanged. The absolute most important one for phase changes?
+
+For sure, it's translational energy. Second, let's fix some common mistakes, like mixing up rotational and vibrational. The fix is easy. Rotational means bonds are unchanged, just spinning, while vibrational means bonds actively stretch and bend.
+
+Another mistake is thinking vibrating moves a molecule across the container. Vibration happens right in place. Moving across is translational. And stop saying kinetic energy increases during melting or boiling. On the flat parts of a graph, energy goes into separating particles,
+
+so the average kinetic energy, which is temperature, stays exactly the same. Finally, beware of traps on the test. Trap 1 claims a vibrating molecule moves across the box, but remember, vibration is in place. Moving across is translational. Trap 2 is the whole handout versus textbook rule.
+
+The class graph says a solid gains vibrational and translational energy as it warms. However, the table says solid particles mostly vibrate in place. And many textbooks say solid particles only vibrate. On this test, solid equals mostly vibrating in place. If asked what increases while a solid warms, give the class answer vibrational plus some translational.

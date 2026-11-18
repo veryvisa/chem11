@@ -1,0 +1,15 @@
+This is the brief on phase changes and energy. This material covers how substances physically change states and exactly where the energy goes during those wild transformations. First, the six phase changes. Think of frost appearing on a car window without ever being liquid.
+
+That's one of six arrows between solid, liquid, and gas. We have solid to liquid melting, liquid to solid freezing, liquid to gas evaporation, and gas to liquid condensation. Skipping liquid entirely gives us solid to gas sublimation and gas to solid deposition.
+
+Crucially, every phase change is a physical change. The substance stays exactly the same. Moving toward gas absorbs energy to pull particles apart, while moving away releases it. Second, the heating curve.
+
+If a burner under ice water is on full blast, why is the thermometer stuck at zero degrees? Picture a graph. Temperature on the y-axis, heat added on the x-axis. Diagonal lines mean temperature changes as ice warms to zero,
+
+liquid to 100, and steam beyond that. A flat line means the phase is changing and temperature is constant. Ice melts at zero, liquid boils at 100. On these flat parts, two phases are actually present. Added energy breaks attractions.
+
+It doesn't make particles move faster. And a cooling curve just reads backwards, releasing energy on those flat parts. Finally, kinetic energy. A molecule can spin like a top,
+
+shake like a spring, or fly across the room. But only one lets ice melt. Rising temperatures mean faster particles and higher kinetic energy. The three types are rotational, spinning in place, vibrational, atoms shaking,
+
+and translational, moving in a straight line. Translational matters most, because particles need freedom to pull apart. Melting and boiling happen when translational energy reaches a critical value.

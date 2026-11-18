@@ -1,0 +1,31 @@
+这是一期关于化学基础一错点即可的快速简报这份讲义直接指出了大家最常掉进去的概念陷阱帮你精准避坑并理清底层逻辑
+
+第一咱们先来接近概念带数字测量的叫定量quantitative单凭肉眼观察是定性
+
+quantitative 出气泡只是观察 产生气体才是解释 理论theory解释为什么 定律law只描述是什么
+
+数据仅用来验证假设hypothesis别以为液体体积会变变得只是形状光泽也绝不是颜色能砸成片叫可断性
+
+moleable 拉成丝叫炎性 ductile 粘度viscocity高 其实就是指它流的慢
+
+第二看看物质分类记住啊混合气体永远只有一个象phase
+
+带电荷的就是离子Ion而化合物compound必须包含两种以上不同的原子atom
+
+盐水看着均匀但它是溶液solution绝对属于混合物mixture
+
+化学是固定的才是纯净物pure substance其溶解作用且量多的那一方
+
+是溶剂solvent被溶解的才是溶质soluid
+
+最后聊聊变化与能量颜色本身是物理性质physical property通过反应变色
+
+才算是化学性质chemical property温度是强度性质intensive property而总质量属广延性质
+
+extensive property 只要没产生新物质 就是物理变化 physical change 比如水蒸汽直接变霜
+
+叫凝滑deposition前往留意动能kinetic energy的坑震动仅发生在一个位置
+
+穿过容器才叫平动融化或沸腾时固液等相共存所以温度根本不会升
+
+水平段上能量用来分开粒子平均动能温度不变

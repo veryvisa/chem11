@@ -1,0 +1,11 @@
+This is the brief on atoms, elements, molecules, compounds, and ions. We classify formulas because some take multiple labels. First, atoms retain properties. Protons, neutrons, electrons, 50 million make one centimeter. Elements are pure substances of one atom type, O2. Molecules have bonded atoms. Compounds are pure substances of different atoms combined, H2O.
+
+Ions have electric charges, showing plus or minus. Second, handouts mark lone symbols as atoms, O2 as molecule and element, NACL as compound only. Textbooks say Fe can mean element, iron, and NACL as an ionic compound, not molecules. Why it gets only C despite notes calling compounds molecules. Use class labels. Third, worked example. Label each with A, E, M, C, or I. Some take two letters.
+
+A, N2, B, CO2, C, NH4+, D, one silver particle, E, KCL. A, N2, no charge, two atoms, one type, answer, M, E. B, CO2, no charge, three atoms, two types, CO, answer, M, C. C, NH4+, plus charge, answer, I. D, one silver particle, answer, A.
+
+KCL, metal plus nonmetal, answer, C. Final answer line, A, M, E, B, M, C, C, I, D, A, E, C. Worked example. A student says O2 cannot be an element because it has two atoms. Explain the mistake. O2 has only oxygen atoms, so one type, meaning element. Its two atoms are bonded, meaning molecule. Labels, M, E.
+
+Answer, element means one type of atom, not one atom. O2 is a molecule and an element. Finally, giving two labels is hardest. Logic, charged, I only. Single symbol, A only. Bonded, M, then E, or C. NACL type is C.
+
+Tip, write letters, give two when applicable, expect M, E for O2, M, C for H2O. Check for a charge before anything else.

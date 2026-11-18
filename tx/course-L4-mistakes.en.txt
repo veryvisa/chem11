@@ -1,0 +1,9 @@
+This is The Brief on Chemistry, 11 Common Traps. We're tackling the ultimate cheat sheet of frequent mistakes students make with matter, properties, and energy, giving you the exact fixes to get them right. First, you know, it's incredibly easy to get tricked by observations. You might think four beakers is qualitative, but since it has a number, it's strictly quantitative.
+
+Watch out for interpretations disguised as observations, too. Saying bubbles formed is what you literally see, but concluding a gas was produced is actually an interpretation. Also, boiling water or dissolving sugar are just physical changes because you aren't making a new substance. Remember, a chemical property is simply the ability to react. Second, don't let compounds confuse you.
+
+A true compound forces two or more different types of atoms to bond together. So N2 is just an element, while H2O is a compound. Plus, a clear liquid isn't necessarily pure. Salt water is absolutely a mixture. Think about stirring sugar into tea.
+
+When it completely dissolves into one uniform state, it's still just a single phase. Finally, let's lock in those phase changes. Sublimation is solid to gas, while deposition is gas to solid. Kind of like frost forming directly from water vapor. Here's the absolute biggest trap on a heating curve.
+
+During a phase change, the temperature and kinetic energy do not increase at all. All that heat energy is just working overtime to break the attractions between particles instead of making them hotter.

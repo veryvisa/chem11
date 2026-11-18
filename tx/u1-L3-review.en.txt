@@ -1,0 +1,15 @@
+This is the brief on science basics. We're doing a quick, precise review of Unit 1, cutting the fluff to focus purely on key definitions, textbook differences, and exact test traps. First, let's break down qualitative versus quantitative data and observations.
+
+Qualitative means no numbers, just your senses. Quantitative means numbers from measuring or counting. An observation is qualitative info gathered with your senses, while an interpretation explains what it means based on evidence. A description uses words and numbers, so it's both.
+
+Watch out for this trap. Noticing heat was released is an observation, but calling it exothermic is an interpretation. Counting is quantitative, so four beakers counts as numbers. And don't put conclusions under observations.
+
+Bubbles formed is an observation. Gas was produced is an interpretation. Crucially, your class notes say an observation must be qualitative, though textbooks mention quantitative observations. On this test, use the class version.
+
+Observation equals qualitative. Second, let's look at hypotheses, theories, and laws. A hypothesis is a single, unproven, testable, educated guess, formatted as if-then. Simply put, a theory explains why, and a law describes what.
+
+For example, the law of conservation of mass isn't an explanation. It states mass before equals mass after, but not why. Can a theory change? Yes. New evidence can refine or replace it.
+
+Don't think a theory becomes a law after enough tests. They do completely different jobs. Finally, let's cover data. Your class notes define data as quantitative only, numbers from an experiment.
+
+Many textbooks also allow qualitative data. The notes also say data supports or does not support a hypothesis, and does not prove it. On this test, write supports, never proves.

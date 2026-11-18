@@ -1,0 +1,31 @@
+This is the brief on data, experiment, hypothesis, theory, and law. These five concepts are essential building blocks of science, but differentiating them, especially law versus theory, is exactly what the test will trick you on. First, the rules.
+
+An experiment is a test to find a result. A hypothesis is a single, unproven, testable, educated guess. Like, if, then. Crucially, while textbooks allow qualitative data, your handout defines data strictly as quantitative measured numbers.
+
+Data supports or does not support a hypothesis. It never proves it. Theories explain why nature behaves a certain way. Laws describe what happens. No explanation.
+
+Second, example one. Part A. If salt is added to water, then the water will boil at a higher temperature. Steps. If, then.
+
+Not tested. Answer. Hypothesis. Part B. Readings every minute.
+
+20 degrees Celsius, 24 degrees Celsius, 27 degrees Celsius. Steps. Measured numbers. Answer. Data.
+
+Part C. Matter is made of tiny particles that are always moving, which explains why gas is spread out. Steps. Which explains why? Answer.
+
+Theory. Part D. Energy is neither created nor destroyed. Steps. States what always happens.
+
+No reason. Answer. Law. Third, example two. Mass before a reaction is 45.6 grams.
+
+Mass after is 45.6 grams. Part A. Is this data? Steps. Yes.
+
+Quantitative info determined experimentally. Answer. Yes. Data. Part B.
+
+Which law? Steps. Total mass before equals total mass after. Answer. Conservation of mass.
+
+Part C. Does it prove the law? Steps. No. One experiment never proves it.
+
+Answer. No. Only supports. Part D. Why not a theory?
+
+Steps. Describes mass. Doesn't explain why. Answer. A law describes.
+
+It does not explain. To tell them apart, ask, does it say why? If yes, it is a theory. For data questions, never write proves. Write supports or does not support.

@@ -1,0 +1,15 @@
+This is the brief on the heating curve of water. It graphs temperature and phase changes as we add heat, revealing exactly where energy goes when ice water on a hot burner is stuck at 0 degrees Celsius. First, temperature is the y-axis. Your class notes put heat added on the x-axis, whereas textbooks use time with steady heat.
+
+But hey, the shape in five segments are exactly the same. Diagonal lines mean temperature changes. Horizontal lines mean a phase change at constant temp. The five segments, one, ice warms to 0 degrees Celsius, two, it melts at 0 degrees Celsius,
+
+three, liquid warms 0 to 100 degrees Celsius, four, boiling at 100 degrees Celsius, and five, steam warms above 100 degrees Celsius. Flat parts have two phases. Energy breaks attractions or separates particles but doesn't make them move faster.
+
+Oh, and cooling curves just read backwards, releasing energy. Second, example one asks for phases and temp changes for segments one to five. Answer, one, solid, rising, two, solid and liquid, 0 degrees Celsius, three, liquid, rising,
+
+four, liquid and gas, 100 degrees Celsius, five, gas, rising. Example two asks why melting ice stays at 0 degrees Celsius. Answer, the heat breaks attractions between particles instead of speeding them up. Finally, example three describes cooling steam at 120 degrees Celsius steadily to ice at negative 20 degrees Celsius.
+
+Answer, gas cools, condenses at 100 degrees Celsius, liquid cools, freezes at 0 degrees Celsius, ice cools. Since temperature tracks speed, it feels weird adding heat doesn't raise it on flat parts,
+
+but energy just pulls particles apart. Tip, sketch the curve marking 0 degrees Celsius and 100 degrees Celsius, numbering segments one to five. For Y constant, always write, energy breaks attractions,
+
+separates particles, instead of increasing their speed.

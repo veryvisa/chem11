@@ -1,0 +1,21 @@
+This is the brief on BC Chemistry 11. Extensive versus intensive properties. A gold ring and bar share the same density despite different masses. Which properties care about how much substance you have? First, extensive properties depend on amount.
+
+Mass, volume, length, surface area, total mass. Intensive properties don't. Density, melting point, boiling point, color, temperature, viscosity. The half sample test. Cut your sample in half.
+
+Value halves, extensive. Stays identical, intensive. Second, example one. Classify gold density, sheet surface area, water temperature, total student mass. Steps, half the gold has identical density, intensive.
+
+Half the sheet has half the area, extensive. Half the water retains temperature, intensive. Fewer students lowers total mass, extensive. Answer, I-E-I-E. Example two.
+
+Sample A is 38.6 grams, 2.0 milliliters. Sample B is 19.3 grams, 1.0 milliliters. Steps. A's density is 38.6 divided by 2.0, equaling 19.3 grams per milliliter. B's is 19.3 divided by 1.0, equaling 19.3 grams per milliliter.
+
+Mass changed, so it's extensive. Density didn't, so it's intensive. Answer, D-A and D-B equal 19.3 grams per milliliter. Mass is extensive. Density is intensive.
+
+Example three. Full kettles take twice as long to boil. Classify boiling point and total heat. Steps. Half the water boils at 100 degrees Celsius, intensive.
+
+Half the water needs half the heat, extensive. Answer. Boiling point stays 100 degrees Celsius, intensive. Total heat needed is extensive. Finally, why is density intensive?
+
+Bigger objects are heavier, so you might assume density grows too. The math. Double the sample. Mass goes to 2m. Volume to 2v.
+
+Density is 2m divided by 2v. The 2s cancel, simplifying to m divided by v. Unchanged. Exam tip. On a list question, write E or I quickly using the half sample test.
+
+Watch for total, always E, and for temperature, always I.
